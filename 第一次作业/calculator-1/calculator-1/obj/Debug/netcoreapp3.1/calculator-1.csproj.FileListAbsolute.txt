@@ -1,0 +1,13 @@
+E:\courses\computer\softwareStructure\homework\第一次作业\calculator-1\calculator-1\bin\Debug\netcoreapp3.1\calculator-1.exe
+E:\courses\computer\softwareStructure\homework\第一次作业\calculator-1\calculator-1\bin\Debug\netcoreapp3.1\calculator-1.deps.json
+E:\courses\computer\softwareStructure\homework\第一次作业\calculator-1\calculator-1\bin\Debug\netcoreapp3.1\calculator-1.runtimeconfig.json
+E:\courses\computer\softwareStructure\homework\第一次作业\calculator-1\calculator-1\bin\Debug\netcoreapp3.1\calculator-1.runtimeconfig.dev.json
+E:\courses\computer\softwareStructure\homework\第一次作业\calculator-1\calculator-1\bin\Debug\netcoreapp3.1\calculator-1.dll
+E:\courses\computer\softwareStructure\homework\第一次作业\calculator-1\calculator-1\bin\Debug\netcoreapp3.1\calculator-1.pdb
+E:\courses\computer\softwareStructure\homework\第一次作业\calculator-1\calculator-1\obj\Debug\netcoreapp3.1\calculator-1.csprojAssemblyReference.cache
+E:\courses\computer\softwareStructure\homework\第一次作业\calculator-1\calculator-1\obj\Debug\netcoreapp3.1\calculator-1.AssemblyInfoInputs.cache
+E:\courses\computer\softwareStructure\homework\第一次作业\calculator-1\calculator-1\obj\Debug\netcoreapp3.1\calculator-1.AssemblyInfo.cs
+E:\courses\computer\softwareStructure\homework\第一次作业\calculator-1\calculator-1\obj\Debug\netcoreapp3.1\calculator-1.csproj.CoreCompileInputs.cache
+E:\courses\computer\softwareStructure\homework\第一次作业\calculator-1\calculator-1\obj\Debug\netcoreapp3.1\calculator-1.dll
+E:\courses\computer\softwareStructure\homework\第一次作业\calculator-1\calculator-1\obj\Debug\netcoreapp3.1\calculator-1.pdb
+E:\courses\computer\softwareStructure\homework\第一次作业\calculator-1\calculator-1\obj\Debug\netcoreapp3.1\calculator-1.genruntimeconfig.cache
