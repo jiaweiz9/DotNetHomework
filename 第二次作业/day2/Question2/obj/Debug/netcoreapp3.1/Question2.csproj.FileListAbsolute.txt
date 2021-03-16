@@ -1,0 +1,13 @@
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\Question2\bin\Debug\netcoreapp3.1\Question2.exe
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\Question2\bin\Debug\netcoreapp3.1\Question2.deps.json
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\Question2\bin\Debug\netcoreapp3.1\Question2.runtimeconfig.json
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\Question2\bin\Debug\netcoreapp3.1\Question2.runtimeconfig.dev.json
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\Question2\bin\Debug\netcoreapp3.1\Question2.dll
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\Question2\bin\Debug\netcoreapp3.1\Question2.pdb
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\Question2\obj\Debug\netcoreapp3.1\Question2.csprojAssemblyReference.cache
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\Question2\obj\Debug\netcoreapp3.1\Question2.AssemblyInfoInputs.cache
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\Question2\obj\Debug\netcoreapp3.1\Question2.AssemblyInfo.cs
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\Question2\obj\Debug\netcoreapp3.1\Question2.csproj.CoreCompileInputs.cache
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\Question2\obj\Debug\netcoreapp3.1\Question2.dll
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\Question2\obj\Debug\netcoreapp3.1\Question2.pdb
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\Question2\obj\Debug\netcoreapp3.1\Question2.genruntimeconfig.cache

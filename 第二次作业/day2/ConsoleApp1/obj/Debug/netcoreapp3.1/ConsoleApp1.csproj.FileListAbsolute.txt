@@ -1,0 +1,13 @@
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\courses\computer\softwareStructure\homework\第二次作业\day2\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
