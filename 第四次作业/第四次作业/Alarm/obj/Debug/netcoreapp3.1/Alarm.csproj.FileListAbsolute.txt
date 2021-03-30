@@ -1,0 +1,13 @@
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\Alarm\bin\Debug\netcoreapp3.1\Alarm.exe
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\Alarm\bin\Debug\netcoreapp3.1\Alarm.deps.json
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\Alarm\bin\Debug\netcoreapp3.1\Alarm.runtimeconfig.json
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\Alarm\bin\Debug\netcoreapp3.1\Alarm.runtimeconfig.dev.json
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\Alarm\bin\Debug\netcoreapp3.1\Alarm.dll
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\Alarm\bin\Debug\netcoreapp3.1\Alarm.pdb
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\Alarm\obj\Debug\netcoreapp3.1\Alarm.csprojAssemblyReference.cache
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\Alarm\obj\Debug\netcoreapp3.1\Alarm.AssemblyInfoInputs.cache
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\Alarm\obj\Debug\netcoreapp3.1\Alarm.AssemblyInfo.cs
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\Alarm\obj\Debug\netcoreapp3.1\Alarm.csproj.CoreCompileInputs.cache
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\Alarm\obj\Debug\netcoreapp3.1\Alarm.dll
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\Alarm\obj\Debug\netcoreapp3.1\Alarm.pdb
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\Alarm\obj\Debug\netcoreapp3.1\Alarm.genruntimeconfig.cache

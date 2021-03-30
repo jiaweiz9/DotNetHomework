@@ -1,0 +1,13 @@
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\genericList\bin\Debug\netcoreapp3.1\genericList.exe
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\genericList\bin\Debug\netcoreapp3.1\genericList.deps.json
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\genericList\bin\Debug\netcoreapp3.1\genericList.runtimeconfig.json
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\genericList\bin\Debug\netcoreapp3.1\genericList.runtimeconfig.dev.json
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\genericList\bin\Debug\netcoreapp3.1\genericList.dll
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\genericList\bin\Debug\netcoreapp3.1\genericList.pdb
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\genericList\obj\Debug\netcoreapp3.1\genericList.csprojAssemblyReference.cache
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\genericList\obj\Debug\netcoreapp3.1\genericList.AssemblyInfoInputs.cache
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\genericList\obj\Debug\netcoreapp3.1\genericList.AssemblyInfo.cs
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\genericList\obj\Debug\netcoreapp3.1\genericList.csproj.CoreCompileInputs.cache
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\genericList\obj\Debug\netcoreapp3.1\genericList.dll
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\genericList\obj\Debug\netcoreapp3.1\genericList.pdb
+E:\courses\computer\softwareStructure\homework\第四次作业\第四次作业\genericList\obj\Debug\netcoreapp3.1\genericList.genruntimeconfig.cache
