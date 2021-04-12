@@ -1,0 +1,13 @@
+E:\courses\computer\softwareStructure\homework\第五次作业\第五次作业\bin\Debug\netcoreapp3.1\OrderManagement.exe
+E:\courses\computer\softwareStructure\homework\第五次作业\第五次作业\bin\Debug\netcoreapp3.1\OrderManagement.deps.json
+E:\courses\computer\softwareStructure\homework\第五次作业\第五次作业\bin\Debug\netcoreapp3.1\OrderManagement.runtimeconfig.json
+E:\courses\computer\softwareStructure\homework\第五次作业\第五次作业\bin\Debug\netcoreapp3.1\OrderManagement.runtimeconfig.dev.json
+E:\courses\computer\softwareStructure\homework\第五次作业\第五次作业\bin\Debug\netcoreapp3.1\OrderManagement.dll
+E:\courses\computer\softwareStructure\homework\第五次作业\第五次作业\bin\Debug\netcoreapp3.1\OrderManagement.pdb
+E:\courses\computer\softwareStructure\homework\第五次作业\第五次作业\obj\Debug\netcoreapp3.1\OrderManagement.csprojAssemblyReference.cache
+E:\courses\computer\softwareStructure\homework\第五次作业\第五次作业\obj\Debug\netcoreapp3.1\OrderManagement.AssemblyInfoInputs.cache
+E:\courses\computer\softwareStructure\homework\第五次作业\第五次作业\obj\Debug\netcoreapp3.1\OrderManagement.AssemblyInfo.cs
+E:\courses\computer\softwareStructure\homework\第五次作业\第五次作业\obj\Debug\netcoreapp3.1\OrderManagement.csproj.CoreCompileInputs.cache
+E:\courses\computer\softwareStructure\homework\第五次作业\第五次作业\obj\Debug\netcoreapp3.1\OrderManagement.dll
+E:\courses\computer\softwareStructure\homework\第五次作业\第五次作业\obj\Debug\netcoreapp3.1\OrderManagement.pdb
+E:\courses\computer\softwareStructure\homework\第五次作业\第五次作业\obj\Debug\netcoreapp3.1\OrderManagement.genruntimeconfig.cache
