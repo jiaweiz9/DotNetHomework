@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
+using System.Xml.Serialization;
+
 namespace Order
 {
 	public class OrderService
@@ -79,9 +82,32 @@ namespace Order
 		public List<Order> SearchByPrice(int price)  //按照订单金额查找
 		{
 			var result = from s in orders
-						 where s.totalPrice ==price
+						 where s.totalPrice <=price
 						 select s;
 			return result.ToList();
+		}
+
+		public void Export()
+		{ XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Order>));
+			using (FileStream fs = new FileStream("orders.xml", FileMode.Create))
+            {
+				xmlSerializer.Serialize(fs, orders);
+				Console.WriteLine("Orders have serialized as XML:");
+			}
+			Console.WriteLine(File.ReadAllText("orders.xml"));
+			
+		}
+
+		public void Inport()
+		{ XmlSerializer xmlSerializer = new XmlSerializer(typeof(List<Order>));
+			using (FileStream fs = new FileStream("orders.xml", FileMode.Open))
+            {
+				List<Order> orders2 = (List<Order>)xmlSerializer.Deserialize(fs);
+				Console.WriteLine("Orders have deserialized from xml:");
+				foreach(Order ord in orders2)
+				{ Console.WriteLine(ord); }
+			}
+			
 		}
 	}
 }

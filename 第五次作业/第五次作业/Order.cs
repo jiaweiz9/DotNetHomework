@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 namespace Order{
 
+	[Serializable]
 	public class Order:IComparable
 	{
 		public List<OrderDetail> orderDetails;
@@ -15,6 +16,14 @@ namespace Order{
 			countOfSort = 0;
 			totalPrice = 0;
 			this.number = number;
+			time = DateTime.Now;
+		}
+		public Order()
+        {
+			orderDetails = new List<OrderDetail>();
+			countOfSort = 0;
+			totalPrice = 0;
+			this.number = "0000";
 			time = DateTime.Now;
 		}
 		public DateTime OrderTime()    //展示订单时间
@@ -46,7 +55,7 @@ namespace Order{
 
         public override string ToString()
         {
-			string result = "";
+			string result = number+"\t"+time+"\n";
 			foreach (OrderDetail det in orderDetails)
 				result = result + det.ToString()+"\n";
             return result;

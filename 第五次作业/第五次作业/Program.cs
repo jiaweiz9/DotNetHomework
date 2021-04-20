@@ -19,7 +19,7 @@ namespace Order
             myOrderService.orders[2].AddDetail("衣服", 3, 200);
             myOrderService.orders[2].AddDetail("鞋", 2, 400);
 
-            Console.WriteLine(myOrderService.ToString());
+            Console.WriteLine(myOrderService);
 
             foreach (Order ord in myOrderService.SearchByNumber("1000"))
             { 
@@ -29,6 +29,9 @@ namespace Order
                 }
                 Console.WriteLine($"No.{ord.number} Time:{ord.OrderTime()} Total:{ord.totalPrice}");
             }
+
+            myOrderService.Export();
+            myOrderService.Inport();
         }
     }
 }

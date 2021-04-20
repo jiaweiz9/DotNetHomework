@@ -15,6 +15,12 @@ namespace Order{
 			this.count = count;
 			this.unitPrice = unitPrice;
 		}
+		public OrderDetail()
+		{
+			commodityName = "";
+			this.count = 0;
+			this.unitPrice = 0;
+		}
 
         public override string ToString()
         {
