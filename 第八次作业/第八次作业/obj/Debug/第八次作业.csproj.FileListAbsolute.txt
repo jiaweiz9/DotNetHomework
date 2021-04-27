@@ -1,0 +1,11 @@
+E:\courses\computer\softwareStructure\homework\第八次作业\第八次作业\bin\Debug\第八次作业.exe.config
+E:\courses\computer\softwareStructure\homework\第八次作业\第八次作业\bin\Debug\第八次作业.exe
+E:\courses\computer\softwareStructure\homework\第八次作业\第八次作业\bin\Debug\第八次作业.pdb
+E:\courses\computer\softwareStructure\homework\第八次作业\第八次作业\obj\Debug\第八次作业.csprojAssemblyReference.cache
+E:\courses\computer\softwareStructure\homework\第八次作业\第八次作业\obj\Debug\第八次作业.Form1.resources
+E:\courses\computer\softwareStructure\homework\第八次作业\第八次作业\obj\Debug\第八次作业.Properties.Resources.resources
+E:\courses\computer\softwareStructure\homework\第八次作业\第八次作业\obj\Debug\第八次作业.csproj.GenerateResource.cache
+E:\courses\computer\softwareStructure\homework\第八次作业\第八次作业\obj\Debug\第八次作业.csproj.CoreCompileInputs.cache
+E:\courses\computer\softwareStructure\homework\第八次作业\第八次作业\obj\Debug\第八次作业.exe
+E:\courses\computer\softwareStructure\homework\第八次作业\第八次作业\obj\Debug\第八次作业.pdb
+E:\courses\computer\softwareStructure\homework\第八次作业\第八次作业\obj\Debug\第八次作业.Form2.resources
