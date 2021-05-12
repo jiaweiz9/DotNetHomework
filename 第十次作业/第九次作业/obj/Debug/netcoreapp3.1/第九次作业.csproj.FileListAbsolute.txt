@@ -1,0 +1,15 @@
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\bin\Debug\netcoreapp3.1\第九次作业.exe
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\bin\Debug\netcoreapp3.1\第九次作业.deps.json
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\bin\Debug\netcoreapp3.1\第九次作业.runtimeconfig.json
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\bin\Debug\netcoreapp3.1\第九次作业.runtimeconfig.dev.json
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\bin\Debug\netcoreapp3.1\第九次作业.dll
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\bin\Debug\netcoreapp3.1\第九次作业.pdb
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\obj\Debug\netcoreapp3.1\第九次作业.csprojAssemblyReference.cache
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\obj\Debug\netcoreapp3.1\第九次作业.Form1.resources
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\obj\Debug\netcoreapp3.1\第九次作业.csproj.GenerateResource.cache
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\obj\Debug\netcoreapp3.1\第九次作业.AssemblyInfoInputs.cache
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\obj\Debug\netcoreapp3.1\第九次作业.AssemblyInfo.cs
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\obj\Debug\netcoreapp3.1\第九次作业.csproj.CoreCompileInputs.cache
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\obj\Debug\netcoreapp3.1\第九次作业.dll
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\obj\Debug\netcoreapp3.1\第九次作业.pdb
+E:\courses\computer\softwareStructure\homework\第九次作业\第九次作业\obj\Debug\netcoreapp3.1\第九次作业.genruntimeconfig.cache
