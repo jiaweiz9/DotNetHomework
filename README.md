@@ -1,3 +1,3 @@
-# .NetHomework
-武汉大学《软件构造基础》课程作业
-## 这是张嘉伟的《软件构造基础》作业仓库
+# This is *Basis of Software Construction* homework reporsitory
+
+Each application was developed by C# and .Net framework
